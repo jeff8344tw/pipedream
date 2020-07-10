@@ -3,7 +3,7 @@
 
 ---
 
-Pipedream is a serverless integration and compute platform.  We provide a free, hosted platform that makes it easy to connect apps and develop, execute and maintain event-driven workflows.
+Pipedream is a serverless integratiffffffon and compute platform.  We provide a free, hosted platform that makes it easy to connect apps and develop, execute and maintain event-driven workflows.
 
 **Key Features**:
 * [Twitter API Event Sources](#github-api-event-sources) - Open source [components](https://github.com/PipedreamHQ/pipedream/tree/master/components) that emit events from Twitter
